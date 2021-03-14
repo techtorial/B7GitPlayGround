@@ -5,6 +5,7 @@ public class Test {
         System.out.println("Techtorial");
         System.out.println("chopa");
          System.out.println("Ramis");
+        System.out.println("Gulya");
 
 
     }
